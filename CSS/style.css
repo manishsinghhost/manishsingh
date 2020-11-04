@@ -1,0 +1,145 @@
+body
+{
+    margin: 0;
+}
+
+.Nameheader
+{
+text-align: center;
+background-color:#f6eec9;
+color:#f5b461;
+font-size: 30px;
+}
+.profile
+{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+}
+.top-img
+{
+    margin-top: 20px;
+}
+.middle
+{
+  text-align: center;
+
+  color:#5d54a4;
+}
+.heading
+{
+  font-family: 'Montserrat', cursive;
+  font-size: 30px;
+}
+.message
+{
+  font-family: 'Itim', cursive;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.heading1
+{
+  font-family: 'Montserrat', cursive;
+}
+.message1
+{
+  font-family: 'Itim', cursive;
+}
+.code-img{
+  margin-right: 10px;
+  float: left;
+  width:200px;
+  height:150px;
+  border-radius: 80%;
+}
+.code-img2{
+  margin-left: 10px;
+  float: right;
+  width:200px;
+  height:150px;
+  border-radius: 80%;
+}
+.skill-row
+{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  font-weight:4;
+  text-align: left;
+}
+.details
+{
+  text-align: center;
+  background-color: #a3d8f4;
+  color: #7579e7;
+}
+
+.contact
+{
+  text-align: center;
+  color: #625261;
+  padding: 0;
+}
+.footer-link
+{
+  margin: auto 10px auto 10px;
+  text-decoration: none;
+  color: #11999E;
+}
+.Header
+{
+  margin-left: 60%;
+}
+.footer-link1
+{
+  margin: auto 10px auto 10px;
+  text-decoration: none;
+  color: #D9CCD1;
+  font-family: 'Itim',cursive;
+}
+.first-part
+{
+  text-align: center;
+  background-color:#f6def6;
+}
+.img-s
+{
+  width: 20%;
+  height: 20%;
+  margin-right: 75%;
+}
+.img-s1
+{
+  width: 20%;
+  height: 10%;
+  margin-left: 75%;
+}
+.first-part
+{
+  text-align: center;
+  font-family: 'Itim', cursive;
+  color: #A0B938
+}
+.second
+{
+  text-align: center;
+  font-family: 'Itim', cursive;
+  background-color: #ddf3f5;
+}
+h2
+{
+  margin: auto 20% auto 20%;
+  color: #184d47
+}
+p
+{
+  margin: auto 20% auto 20%;
+  color: #96bb7c;
+}
+.last
+{
+  text-align: center;
+  background-color:#e0dede;
+  font-family: 'Itim', cursive;
+  color: #184d47;
+}
